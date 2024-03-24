@@ -4,6 +4,6 @@
 ![image](https://github.com/Lapituda/Actividad-7/assets/102392241/36e51e34-9d79-4d53-a5da-57eef5a920bc)
 ![image](https://github.com/Lapituda/Actividad-7/assets/102392241/6dc6295e-df13-4622-8169-791539936f78)
 
-# esto nosmmostrara las actividades, el tema, calificaciones y fecha:
+# ESTO NOS MOSTRARA LAS ACTIVIDADES, EL TEMA, CALIFICACIONES Y FECHA:
 ![image](https://github.com/Lapituda/Actividad-7/assets/102392241/a85469c3-9160-4b22-91b5-d1f5e1a3e88a)
 ![image](https://github.com/Lapituda/Actividad-7/assets/102392241/d3e32ab3-c41a-4203-9505-1470bc2f401d)
